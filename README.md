@@ -1,8 +1,8 @@
 # What-the-shell
 
--------------- Up Coming ----------------------
+-------------- Improving ----------------------
 
-Netcat Shell Stabilisation :
+## Netcat Shell Stabilisation :
 
 ### 👀 Technique 1: Python
 
